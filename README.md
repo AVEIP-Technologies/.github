@@ -1,7 +1,6 @@
 <p align="center">
   <img
-    src=<img width="2080" height="880" alt="Aveip-logo-completo-blanco" src="https://github.com/user-attachments/assets/56531f63-2e59-4938-bc49-fdb99d0dfb2f" />
-
+    src="https://github.com/user-attachments/assets/56531f63-2e59-4938-bc49-fdb99d0dfb2f"
     width="500"
     alt="AVEIP Technologies"
   >
