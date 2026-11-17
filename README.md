@@ -3,95 +3,102 @@
   <img src="./assets/Aveip-logo-vertical-fondo-oscuro.png" width="190" alt="AVEIP Technologies">
 </p>
 
-<h2 align="center">Technology. Innovation. Solutions.</h2>
+<h2 align="center">Tecnología. Innovación. Soluciones.</h2>
 
 <p align="center">
-  <strong>Building technology for a connected future.</strong>
+  <strong>Construyendo tecnología para un futuro conectado.</strong>
 </p>
 
 <p align="center">
-  We design, develop and implement digital solutions that drive innovation, optimize processes and create meaningful technological experiences.
+  Diseñamos, desarrollamos e implementamos soluciones digitales que impulsan la innovación, optimizan procesos y crean experiencias tecnológicas.
 </p>
 
 <p align="center">
-  <a href="https://aveip.com/">Website</a> ·
+  <a href="https://aveip.com/">Sitio web</a> ·
   <a href="https://www.instagram.com/aveip_co/">Instagram</a> ·
   <a href="https://www.tiktok.com/@aveip_co">TikTok</a> ·
-  <a href="mailto:contacto@aveip.com">Contact</a>
+  <a href="mailto:contacto@aveip.com">Contacto</a>
 </p>
 
 ---
 
-<h2 align="center">ABOUT AVEIP</h2>
+<h2 align="center">SOBRE AVEIP</h2>
 
 <p align="center">
-  AVEIP Technologies is a technology-focused organization dedicated to developing digital solutions, software platforms and technological projects.
+  AVEIP Technologies es una organización enfocada en el desarrollo tecnológico, la creación de soluciones digitales y la implementación de proyectos de innovación.
 </p>
 
 <p align="center">
-  Our approach combines engineering, creativity and innovation to transform ideas into functional, scalable and reliable solutions.
+  Combinamos ingeniería, creatividad y conocimiento tecnológico para transformar ideas en soluciones funcionales, escalables y confiables.
 </p>
 
 ---
 
-<h2 align="center">WHAT WE DO</h2>
+<h2 align="center">NUESTRAS ÁREAS DE TRABAJO</h2>
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>Software Development</h3>
-      Applications, platforms and custom software solutions.
+      <h3>Desarrollo de software</h3>
+      Aplicaciones, plataformas y soluciones de software a medida.
     </td>
     <td align="center" width="33%">
-      <h3>Web Technologies</h3>
-      Modern websites, digital platforms and web experiences.
+      <h3>Tecnologías web</h3>
+      Sitios web modernos, plataformas digitales y experiencias web.
     </td>
     <td align="center" width="33%">
-      <h3>Technology & Infrastructure</h3>
-      Systems, infrastructure and technological environments.
+      <h3>Infraestructura tecnológica</h3>
+      Sistemas, infraestructura y entornos tecnológicos.
     </td>
   </tr>
   <tr>
     <td align="center">
-      <h3>Automation</h3>
-      Process optimization and intelligent integrations.
+      <h3>Automatización</h3>
+      Optimización de procesos e integraciones tecnológicas.
     </td>
     <td align="center">
-      <h3>Innovation</h3>
-      Research, experimentation and emerging technologies.
+      <h3>Innovación</h3>
+      Investigación, experimentación y nuevas tecnologías.
     </td>
     <td align="center">
-      <h3>Digital Solutions</h3>
-      Technology designed to solve real-world challenges.
+      <h3>Soluciones digitales</h3>
+      Tecnología orientada a resolver necesidades reales.
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">OUR TECHNOLOGICAL ECOSYSTEM</h2>
+<h2 align="center">NUESTRO ECOSISTEMA TECNOLÓGICO</h2>
 
 <p align="center">
-  Software Engineering · Web Development · Cloud Infrastructure
-  <br>
-  Automation · Database Systems · Cybersecurity
+  Trabajamos con tecnologías y herramientas de desarrollo para construir soluciones digitales confiables.
+</p>
+
+<p align="center">
+  <code>Ingeniería de software</code>
+  <code>Desarrollo web</code>
+  <code>Infraestructura cloud</code>
+  <code>Automatización</code>
+  <code>Bases de datos</code>
+  <code>Ciberseguridad</code>
 </p>
 
 ---
 
-<h2 align="center">OUR GITHUB</h2>
+<h2 align="center">NUESTRO ESPACIO EN GITHUB</h2>
 
 <p align="center">
-  This organization brings together our repositories, development projects, technical resources and technological initiatives.
+  Este espacio reúne nuestros repositorios, proyectos de desarrollo, recursos técnicos e iniciativas tecnológicas.
 </p>
 
 <p align="center">
-  Every project represents an opportunity to learn, build and innovate.
+  Cada proyecto representa una oportunidad para aprender, construir e innovar.
 </p>
 
 ---
 
-<h2 align="center">CONNECT WITH US</h2>
+<h2 align="center">CONECTA CON AVEIP</h2>
 
 <p align="center">
   <a href="https://aveip.com/"><strong>www.aveip.com</strong></a>
@@ -102,9 +109,9 @@
 </p>
 
 <p align="center">
-  <sub>© AVEIP Technologies. All rights reserved.</sub>
+  <sub>© AVEIP Technologies. Todos los derechos reservados.</sub>
 </p>
 
 <p align="center">
-  <strong>Technology with purpose. Innovation without limits.</strong>
+  <strong>Tecnología con propósito. Innovación sin límites.</strong>
 </p>
