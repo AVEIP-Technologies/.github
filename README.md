@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="./assets/Aveip-logo-vertical-fondo-oscuro.png" width="190" alt="AVEIP Technologies">
+  <img src="<img width="2080" height="880" alt="Aveip-logo-completo-negro" src="https://github.com/user-attachments/assets/64b80709-0d9a-4131-857a-9889cc76d2b7" />
+" width="190" alt="AVEIP Technologies">
 </p>
 
 <h2 align="center">Tecnología. Innovación. Soluciones.</h2>
