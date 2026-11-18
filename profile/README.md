@@ -105,7 +105,7 @@
 <h2 align="center">CONECTA CON AVEIP</h2>
 
 <p align="center">
-  <a href="https://aveip.com/"><strong>WWW.AVEIP.COM</strong></a>
+  <a href="https://aveip.com/"><strong>AVEIP.COM</strong></a>
   <br><br>
   <a href="mailto:contacto@aveip.com">contacto@aveip.com</a>
   <br><br>
